@@ -1,0 +1,15 @@
+.mainPage2 {
+  width: 350px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-left: -30px;
+}
+.active {
+  border: 0px;
+  border-bottom: 3px;
+
+  border-bottom-color: aqua;
+  border-style: solid;
+}

@@ -1,0 +1,34 @@
+.mainPage {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  margin: 20pxpx 20%;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.SearchBoxCard {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.searchInput {
+  padding-left: 15px;
+  font-size: 15px;
+  height: 50px;
+  width: 400px;
+  background-color: transparent;
+  border: 0px;
+}
+
+.SearchImg {
+  height: 40px;
+  width: 40px;
+}
+.SearchBoxCard {
+  height: 52px;
+  border: 1px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: gray;
+}

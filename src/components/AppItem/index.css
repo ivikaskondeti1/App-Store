@@ -1,0 +1,25 @@
+.mainPage3 {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.AppDetails {
+  border-radius: 10px;
+  padding: 5px;
+  background-color: white;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.appImage {
+  height: 50px;
+  width: 50px;
+}
+.appName {
+  font-size: 12px;
+}
